@@ -1,4 +1,5 @@
 # hithesis 哈尔滨工业大学LaTeX论文模板
+开题模板！
 
 <!-- [![docker-build-TinyTeX-hithesis](https://github.com/hithesis/hithesis/workflows/docker-build-TinyTeX-hithesis/badge.svg?branch=master)](https://github.com/hithesis/hithesis/actions?query=workflow%3Adocker-build-TinyTeX-hithesis) -->
 <!-- [![TinyTeX](https://github.com/hithesis/hithesis/workflows/TinyTeX/badge.svg?branch=master)](https://github.com/dustincys/hithesis/actions?query=workflow%3ATinyTeX) -->
